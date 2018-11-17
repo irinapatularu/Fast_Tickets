@@ -3065,9 +3065,10 @@ html.no-csstransitions .home-content__main {
  * ## subscribe
  * ------------------------------------------------------------------- */
 .contact-subscribe {
-  margin: 0;
+  margin-top: 10px;
+  margin-left: 0;
   padding: 0;
-  position: relative;
+  position: auto;
 }
 
 .mc-form {
